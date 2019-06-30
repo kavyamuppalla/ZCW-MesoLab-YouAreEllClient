@@ -62,7 +62,7 @@ window.addEventListener("load", function () {
 
 ### Part 2.0 - Create Your Service
 
-* Create a new JavaScript file called ``message-serivce.js``. This file will contain a [JavaScript class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) called ``MessageService``, responsible for making HTTP requests to fetch and update data from the YouAreEll RESTful API.
+* Create a new JavaScript file called ``message-service.js``. This file will contain a [JavaScript class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) called ``MessageService``, responsible for making HTTP requests to fetch and update data from the YouAreEll RESTful API.
 ```javascript
 class MessageService {
    
